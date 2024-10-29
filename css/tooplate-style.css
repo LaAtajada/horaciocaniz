@@ -655,16 +655,16 @@ b, strong {
   z-index: 9;
 }
 
-.button:nth-child(2) {
+.button:nth-child(1) {
   background: linear-gradient(120deg, #02ff2c, #008a12);
 }
 
-.button:nth-child(3) {
+.button:nth-child(2) {
   
   background: #1d4292;
 }
 
-.button:nth-child(4) {
+.button:nth-child(3) {
   background: rgb(255, 33, 33);
 }
 
