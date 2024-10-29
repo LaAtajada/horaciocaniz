@@ -632,7 +632,6 @@ b, strong {
   }
 }
 
-
 /* From Uiverse.io by ahmed150up */ 
 .card {
   display: flex;
@@ -679,6 +678,15 @@ b, strong {
   animation: bounce_613 0.4s linear;
 }
 
+.card .social-link2:hover {
+  background-color: #00ccff;
+  animation: bounce_613 0.4s linear;
+}
+
+.card .social-link3:hover {
+  background-color: #5865f2;
+  animation: bounce_613 0.4s linear;
+}
 
 .card .social-link4:hover {
   background-color: #12a50b;
