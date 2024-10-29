@@ -659,12 +659,18 @@ b, strong {
   background: linear-gradient(120deg, #02ff2c, #008a12);
 }
 
-
 .button:nth-child(3) {
+  
+  background: #1d4292;
+}
+
+.button:nth-child(4) {
   background: rgb(255, 33, 33);
 }
 
-
+.button:nth-child(5) {
+  background: black;
+}
 
 .button:active {
   transform: scale(0.85);
