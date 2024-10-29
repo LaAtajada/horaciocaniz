@@ -657,7 +657,7 @@ b, strong {
 
 
 
-.button:nth-child(3) {
+.button:nth-child(2) {
   background: linear-gradient(120deg, #02ff2c, #008a12);
 }
 
@@ -665,7 +665,7 @@ b, strong {
   background: rgb(69, 187, 255);
 }
 
-.button:nth-child(5) {
+.button:nth-child(3) {
   background: rgb(255, 33, 33);
 }
 
