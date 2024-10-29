@@ -660,7 +660,8 @@ b, strong {
 }
 
 .button:nth-child(3) {
-  background: rgb(69, 187, 255);
+  
+  background: #1d4292;
 }
 
 .button:nth-child(4) {
